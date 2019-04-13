@@ -243,7 +243,6 @@
     <string name="anonymous_statistics_title">LineageOS statistik</string>
     <string name="anonymous_statistics_warning_title">Om</string>
     <string name="preview_data_title">Förhandsgranska data</string>
-    <string name="view_stats_title">Visa statistik</string>
     <string name="preview_id_title">Unikt ID</string>
     <string name="preview_device_title">Enhet</string>
     <string name="preview_version_title">Version</string>
